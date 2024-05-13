@@ -9,7 +9,7 @@ courses/enrolled : Get courses enrolled by student
 /login : login the user
 /signup : new registration of user
 Setup
-Clone the repository: git clone [backend-repo-url](https://github.com/mayurrohokale/Alemeno-backend)
+Clone the repository: git clone (https://github.com/mayurrohokale/Alemeno-backend)
 Install dependencies: npm install
 Configure environment variables: Create a .env file and add mongourl=mongodb+srv://mayurrohokale12345:HnbXwhYhoTg90dZJ@cluster0.8ywfzss.mongodb.net/courses-db
 Run the server: npm start
